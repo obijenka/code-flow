@@ -138,7 +138,7 @@ export default function Hero() {
                       customStyle={{
                         margin: 0,
                         borderRadius: "8px",
-                        fontSixe: "11px",
+                        fontSize: "11px",
                         lineHeight: "1.4",
                         height: "100%",
                         border: "1px solid #3c3c3c",
